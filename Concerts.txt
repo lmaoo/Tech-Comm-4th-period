@@ -1,17 +1,40 @@
 lukas graham 
-songs: blue album
+album: blue album
 when:july 18,2018
 time:5pm-10pm
 Mike posner 
-songs:at night alone album,31 minutes to take off
+album:at night alone album,31 minutes to take off
 when: auguest 24, 2018
 time:9pm-4am
 sleeping with sirens 
-songs:madness,feel,lets cheers t this
+album:madness,feel,lets cheers to this
+when:sepember 18,2018
+time:5pm-10pm
 green day 
-bring me the horizon 
+Album:american idiot,unio!
+when: october 24, 2018
+time:9pm-4am
+bring me the horizon
+album:suicide season,count your blessing,live at the albet hall
+when: november 18,2018
+time:5pm-10pm
 slipnot
-jonas blue and dakota
-rhianna and drake
-tinashe
+album: welcome to our nieborhood,all hope is gone,the gray chapter
+when:december 24,2018
+time:9pm-4am
+lil wayne
+album:tha cater v,like father like son,rebirth
+when:january 18,2019
+time:5pm-10pm
+rhianna 
+album:devil in a blue dress, music of the sun,rated r
+when:febuary 24,2019
+time:9pm-4am
+t.i
+album:urban legand,paper trail,king
+when:march 18,2019
+time:5pm-10pm
 chance the rapper 
+album:coloring book,acid rap,10 day
+when: april 24,2019
+time: 9pm-4pm
