@@ -10,3 +10,7 @@ body{
 #info{
   font-size: 25px;
 }
+
+#employees{
+  width: 75%;
+}
